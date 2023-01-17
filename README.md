@@ -13,12 +13,6 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - [ ] [Create](https://gitlab.com/-/experiment/new_project_readme_content:34f0e72c78022070fc6f756d0db303de?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://gitlab.com/-/experiment/new_project_readme_content:34f0e72c78022070fc6f756d0db303de?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://gitlab.com/-/experiment/new_project_readme_content:34f0e72c78022070fc6f756d0db303de?https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/genieously/stork/automation.git
-git branch -M main
-git push -uf origin main
-```
 
 ## Integrate with your tools
 
